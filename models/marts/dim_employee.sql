@@ -1,0 +1,1 @@
+SELECT employee_id, last_name, first_name, birth_date FROM {{ref('stg_employees')}}

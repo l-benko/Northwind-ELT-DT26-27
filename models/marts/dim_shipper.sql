@@ -1,0 +1,1 @@
+SELECT shipper_id, shipper_name FROM {{ref('stg_shippers')}}
